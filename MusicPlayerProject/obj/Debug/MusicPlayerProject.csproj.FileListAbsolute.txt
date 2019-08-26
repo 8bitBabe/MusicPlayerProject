@@ -1,0 +1,14 @@
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\bin\Debug\MusicPlayerProject.exe.config
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\bin\Debug\MusicPlayerProject.exe
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\bin\Debug\MusicPlayerProject.pdb
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.csprojAssemblyReference.cache
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.csproj.ResolveComReference.cache
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.Form1.resources
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.Properties.Resources.resources
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.csproj.GenerateResource.cache
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.exe
+C:\Users\Denise\source\repos\MusicPlayerProject\MusicPlayerProject\obj\Debug\MusicPlayerProject.pdb
